@@ -1,0 +1,117 @@
+
+ui_zhaocaifu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_zhaocaifu_10
+  rotate: false
+  xy: 768, 25
+  size: 191, 36
+  orig: 191, 37
+  offset: 0, 0
+  index: -1
+ui_zhaocaifu_20
+  rotate: false
+  xy: 581, 63
+  size: 212, 36
+  orig: 213, 36
+  offset: 1, 0
+  index: -1
+ui_zhaocaifu_40
+  rotate: false
+  xy: 555, 25
+  size: 211, 36
+  orig: 211, 36
+  offset: 0, 0
+  index: -1
+ui_zhaocaifu_60
+  rotate: true
+  xy: 911, 72
+  size: 210, 36
+  orig: 210, 36
+  offset: 0, 0
+  index: -1
+ui_zhaocaifu_80
+  rotate: true
+  xy: 872, 73
+  size: 209, 37
+  orig: 209, 37
+  offset: 0, 0
+  index: -1
+ui_zhaocaifu_guangxian_01
+  rotate: false
+  xy: 293, 2
+  size: 260, 67
+  orig: 289, 78
+  offset: 21, 6
+  index: -1
+ui_zhaocaifu_guangxian_02
+  rotate: false
+  xy: 581, 151
+  size: 283, 66
+  orig: 289, 78
+  offset: 3, 6
+  index: -1
+ui_zhaocaifu_guangxian_03
+  rotate: false
+  xy: 293, 139
+  size: 286, 67
+  orig: 289, 78
+  offset: 0, 6
+  index: -1
+ui_zhaocaifu_guangxian_04
+  rotate: false
+  xy: 2, 133
+  size: 289, 73
+  orig: 289, 78
+  offset: 0, 5
+  index: -1
+ui_zhaocaifu_guangxian_05
+  rotate: false
+  xy: 2, 65
+  size: 289, 66
+  orig: 289, 78
+  offset: 0, 6
+  index: -1
+ui_zhaocaifu_guangxian_06
+  rotate: false
+  xy: 581, 219
+  size: 289, 63
+  orig: 289, 78
+  offset: 0, 6
+  index: -1
+ui_zhaocaifu_guangxian_07
+  rotate: false
+  xy: 2, 208
+  size: 289, 74
+  orig: 289, 78
+  offset: 0, 0
+  index: -1
+ui_zhaocaifu_guangxian_08
+  rotate: false
+  xy: 293, 208
+  size: 286, 74
+  orig: 289, 78
+  offset: 0, 2
+  index: -1
+ui_zhaocaifu_guangxian_09
+  rotate: false
+  xy: 293, 71
+  size: 286, 66
+  orig: 289, 78
+  offset: 0, 6
+  index: -1
+ui_zhaocaifu_guangxian_10
+  rotate: false
+  xy: 2, 7
+  size: 286, 56
+  orig: 289, 78
+  offset: 0, 12
+  index: -1
+ui_zhaocaifu_guangxian_11
+  rotate: false
+  xy: 581, 101
+  size: 279, 48
+  orig: 289, 78
+  offset: 7, 16
+  index: -1

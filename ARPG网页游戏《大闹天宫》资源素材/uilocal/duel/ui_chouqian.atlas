@@ -1,0 +1,54 @@
+
+ui_chouqian-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_chouqian_hezi_hou
+  rotate: false
+  xy: 2, 166
+  size: 333, 337
+  orig: 333, 337
+  offset: 0, 0
+  index: -1
+ui_chouqian_hezi_qian
+  rotate: false
+  xy: 337, 196
+  size: 334, 307
+  orig: 335, 307
+  offset: 1, 0
+  index: -1
+ui_chouqian_qian
+  rotate: true
+  xy: 2, 73
+  size: 91, 357
+  orig: 91, 357
+  offset: 0, 0
+  index: -1
+ui_chouqian_qian_1
+  rotate: false
+  xy: 673, 146
+  size: 91, 357
+  orig: 91, 357
+  offset: 0, 0
+  index: -1
+ui_chouqian_qian_2
+  rotate: false
+  xy: 766, 146
+  size: 91, 357
+  orig: 91, 357
+  offset: 0, 0
+  index: -1
+ui_chouqian_qian_3
+  rotate: false
+  xy: 859, 146
+  size: 91, 357
+  orig: 91, 357
+  offset: 0, 0
+  index: -1
+ui_chouqian_yinying
+  rotate: false
+  xy: 2, 2
+  size: 289, 69
+  orig: 291, 70
+  offset: 1, 0
+  index: -1

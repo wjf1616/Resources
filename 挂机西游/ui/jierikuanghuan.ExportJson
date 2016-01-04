@@ -1,0 +1,1007 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "jierikuanghuan",
+      "bone_data": [
+        {
+          "name": "Layer42",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": -2.4974346160888672E-05,
+          "arrow_y": -1.4114384612184949E-06,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": -0.0815963745,
+                  "y": 3.33702087,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer34",
+          "parent": "Layer42",
+          "dI": 0,
+          "x": 3.6652679443359375,
+          "y": -2.3758621215820312,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.23471951,
+          "kY": 1.23471951,
+          "arrow_x": 70.0007095336914,
+          "arrow_y": -1.7371145304423408E-06,
+          "effectbyskeleton": true,
+          "bl": 70,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 34.5123978,
+                  "y": -0.280769348,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.5663321,
+                  "kY": -1.56633317
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer21",
+          "parent": "Layer34",
+          "dI": 0,
+          "x": 62.391891479492188,
+          "y": 1.1112451553344727,
+          "z": 10,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0921872854,
+          "kY": -0.0921872854,
+          "arrow_x": 43.971115112304688,
+          "arrow_y": 2.4043793018790893E-05,
+          "effectbyskeleton": true,
+          "bl": 43,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 21.3751526,
+                  "y": -0.7566452,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.14253271,
+                  "kY": -1.14253187
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer37",
+          "parent": "Layer42",
+          "dI": 0,
+          "x": -13.13836669921875,
+          "y": -2.95526123046875,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -2.08987,
+          "kY": 2.08987,
+          "arrow_x": 69.0632095336914,
+          "arrow_y": -5.239368874754291E-06,
+          "effectbyskeleton": true,
+          "bl": 69,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 35.03946,
+                  "y": -0.008361816,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.56627142,
+                  "kY": -1.56627214
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer17",
+          "parent": "Layer37",
+          "dI": 0,
+          "x": 53.454269409179688,
+          "y": -0.24604892730712891,
+          "z": 11,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.0111420155,
+          "kY": 0.0111420155,
+          "arrow_x": 43.846263885498047,
+          "arrow_y": -7.8743705671513453E-06,
+          "effectbyskeleton": true,
+          "bl": 43,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-7.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 21.40577,
+                  "y": -0.452713,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 2.10101223,
+                  "kY": -2.10101271
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer35",
+          "parent": "Layer42",
+          "dI": 0,
+          "x": 12.727767944335938,
+          "y": -3.787628173828125,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.9948375,
+          "kY": 0.9948375,
+          "arrow_x": 69.375007629394531,
+          "arrow_y": -1.1265994999121176E-06,
+          "effectbyskeleton": true,
+          "bl": 69,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 35.6412354,
+                  "y": -0.0679931641,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.57079637,
+                  "kY": -1.57079637
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer22",
+          "parent": "Layer35",
+          "dI": 0,
+          "x": 53.186416625976562,
+          "y": -0.30595111846923828,
+          "z": 9,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.05783385,
+          "kY": -0.05783385,
+          "arrow_x": 44.784744262695312,
+          "arrow_y": 1.3595763448392972E-05,
+          "effectbyskeleton": true,
+          "bl": 44,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 22.6034546,
+                  "y": -0.6543045,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.937004149,
+                  "kY": -0.937003732
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer36",
+          "parent": "Layer42",
+          "dI": 0,
+          "x": -3.0074920654296875,
+          "y": -5.1148147583007812,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.87202716,
+          "kY": 1.87202716,
+          "arrow_x": 69.063224792480469,
+          "arrow_y": 6.4295245465473272E-06,
+          "effectbyskeleton": true,
+          "bl": 69,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 34.3339958,
+                  "y": -0.114639282,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.5753212,
+                  "kY": -1.5753206
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer19",
+          "parent": "Layer36",
+          "dI": 0,
+          "x": 63.648971557617188,
+          "y": -0.28884983062744141,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.02162397,
+          "kY": -0.02162397,
+          "arrow_x": 45.687370300292969,
+          "arrow_y": -2.1040847059339285E-05,
+          "effectbyskeleton": true,
+          "bl": 45,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 21.61895,
+                  "y": -0.326896667,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.85040307,
+                  "kY": -1.85040343
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer23",
+          "parent": "Layer42",
+          "dI": 0,
+          "x": 1.6448440551757813,
+          "y": -3.593902587890625,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.55821836,
+          "kY": 1.55821836,
+          "arrow_x": 69.135894775390625,
+          "arrow_y": -3.44987420248799E-05,
+          "effectbyskeleton": true,
+          "bl": 69,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 34.35059,
+                  "y": -0.002746582,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.55821836,
+                  "kY": -1.558219
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer20",
+          "parent": "Layer23",
+          "dI": 0,
+          "x": 68.481033325195312,
+          "y": 0.20918309688568115,
+          "z": 8,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -0.0416959524,
+          "kY": 0.0416959524,
+          "arrow_x": 44.801601409912109,
+          "arrow_y": -2.9770044420729391E-06,
+          "effectbyskeleton": true,
+          "bl": 44,
+          "display_data": [
+            {
+              "name": "jierikuanghuan-dj-4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 21.7425842,
+                  "y": -0.198318481,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.59991431,
+                  "kY": -1.59991419
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "jierikuanghuan",
+      "mov_data": [
+        {
+          "name": "play",
+          "dr": 61,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.5,
+          "mov_bone_data": [
+            {
+              "name": "Layer17",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.249472022,
+                  "kY": -0.249472022,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer21",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.2167144,
+                  "kY": 0.2167144,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer22",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.18930383,
+                  "kY": 0.18930383,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer20",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.0549574345,
+                  "kY": 0.0549574345,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer19",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.1132898,
+                  "kY": -0.1132898,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer42",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer34",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 3.0769205093383789,
+                  "y": -1.1538453102111816,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.06913828,
+                  "kY": -0.06913828,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer37",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -3.8461494445800781,
+                  "y": -3.0769205093383789,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.127817333,
+                  "kY": 0.127817333,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer35",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 4.9999961853027344,
+                  "y": -1.5384602546691895,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.118088767,
+                  "kY": -0.118088767,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer36",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -3.8461508750915527,
+                  "y": 0.76923036575317383,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": -0.0631270558,
+                  "kY": 0.0631270558,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer23",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0176813137,
+                  "kY": -0.0176813137,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "jierikuanghuan-dj-2",
+      "width": 152.0,
+      "height": 70.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "jierikuanghuan-dj-1",
+      "width": 1.0,
+      "height": 70.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "jierikuanghuan-dj-7",
+      "width": 42.0,
+      "height": 47.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "jierikuanghuan-dj-6",
+      "width": 42.0,
+      "height": 47.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "jierikuanghuan-dj-5",
+      "width": 43.0,
+      "height": 47.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "jierikuanghuan-dj-4",
+      "width": 38.0,
+      "height": 45.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "jierikuanghuan-dj-3",
+      "width": 42.0,
+      "height": 47.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "jierikuanghuan0.plist"
+  ],
+  "config_png_path": [
+    "jierikuanghuan0.png"
+  ]
+}

@@ -1,0 +1,61 @@
+
+ui_baishi-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_baishi_xunhuan_01
+  rotate: false
+  xy: 2, 402
+  size: 106, 63
+  orig: 106, 66
+  offset: 0, 1
+  index: -1
+ui_baishi_xunhuan_02
+  rotate: false
+  xy: 2, 337
+  size: 106, 63
+  orig: 106, 66
+  offset: 0, 1
+  index: -1
+ui_baishi_xunhuan_03
+  rotate: false
+  xy: 2, 69
+  size: 98, 65
+  orig: 106, 66
+  offset: 4, 0
+  index: -1
+ui_baishi_xunhuan_04
+  rotate: false
+  xy: 2, 204
+  size: 102, 66
+  orig: 106, 66
+  offset: 2, 0
+  index: -1
+ui_baishi_xunhuan_05
+  rotate: false
+  xy: 2, 467
+  size: 106, 66
+  orig: 106, 66
+  offset: 0, 0
+  index: -1
+ui_baishi_xunhuan_06
+  rotate: false
+  xy: 2, 272
+  size: 106, 63
+  orig: 106, 66
+  offset: 0, 1
+  index: -1
+ui_baishi_xunhuan_07
+  rotate: false
+  xy: 2, 2
+  size: 98, 65
+  orig: 106, 66
+  offset: 4, 0
+  index: -1
+ui_baishi_xunhuan_08
+  rotate: false
+  xy: 2, 136
+  size: 98, 66
+  orig: 106, 66
+  offset: 4, 0
+  index: -1

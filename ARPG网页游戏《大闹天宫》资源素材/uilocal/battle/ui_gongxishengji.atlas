@@ -1,0 +1,103 @@
+
+ui_gongxishengji.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_gongxishengji_bao_01
+  rotate: true
+  xy: 473, 591
+  size: 119, 107
+  orig: 288, 294
+  offset: 73, 111
+  index: -1
+ui_gongxishengji_bao_02
+  rotate: true
+  xy: 245, 23
+  size: 128, 143
+  orig: 288, 294
+  offset: 84, 92
+  index: -1
+ui_gongxishengji_bao_03
+  rotate: false
+  xy: 245, 153
+  size: 180, 170
+  orig: 288, 294
+  offset: 56, 79
+  index: -1
+ui_gongxishengji_bao_04
+  rotate: false
+  xy: 774, 593
+  size: 208, 172
+  orig: 288, 294
+  offset: 27, 81
+  index: -1
+ui_gongxishengji_bao_05
+  rotate: false
+  xy: 256, 325
+  size: 205, 190
+  orig: 288, 294
+  offset: 27, 61
+  index: -1
+ui_gongxishengji_bao_06
+  rotate: false
+  xy: 264, 517
+  size: 207, 193
+  orig: 288, 294
+  offset: 30, 58
+  index: -1
+ui_gongxishengji_bao_07
+  rotate: false
+  xy: 774, 767
+  size: 223, 211
+  orig: 288, 294
+  offset: 22, 53
+  index: -1
+ui_gongxishengji_bao_08
+  rotate: false
+  xy: 529, 724
+  size: 243, 254
+  orig: 288, 294
+  offset: 14, 22
+  index: -1
+ui_gongxishengji_bao_09
+  rotate: false
+  xy: 2, 401
+  size: 252, 290
+  orig: 288, 294
+  offset: 15, 0
+  index: -1
+ui_gongxishengji_bao_10
+  rotate: false
+  xy: 2, 693
+  size: 260, 285
+  orig: 288, 294
+  offset: 9, 9
+  index: -1
+ui_gongxishengji_bao_11
+  rotate: false
+  xy: 264, 712
+  size: 263, 266
+  orig: 288, 294
+  offset: 10, 13
+  index: -1
+ui_gongxishengji_bao_12
+  rotate: true
+  xy: 2, 111
+  size: 288, 241
+  orig: 288, 294
+  offset: 0, 22
+  index: -1
+ui_gongxishengji_di
+  rotate: false
+  xy: 2, 72
+  size: 241, 37
+  orig: 241, 37
+  offset: 0, 0
+  index: -1
+ui_gongxishengji_zi
+  rotate: false
+  xy: 2, 2
+  size: 183, 68
+  orig: 183, 68
+  offset: 0, 0
+  index: -1

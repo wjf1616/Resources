@@ -1,0 +1,455 @@
+{
+  "classname": "CCNode",
+  "name": "maincj",
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "cj",
+      "canedit": true,
+      "objecttag": 10007,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 1400.6668701171875,
+      "y": 319.99996948242188,
+      "zorder": 1,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "jz",
+          "canedit": true,
+          "objecttag": 10008,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": -1374.25,
+          "y": -321.416748046875,
+          "zorder": 6,
+          "gameobjects": [
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10010,
+              "rotation": 0,
+              "scalex": 0.85,
+              "scaley": 0.9,
+              "visible": 1,
+              "x": 599.72564697265625,
+              "y": 124.72553253173828,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCArmature",
+                  "name": "CCArmature",
+                  "file": null,
+                  "fileData": {
+                    "path": "zzzzz0/lianwuchang/lianwuchang.ExportJson",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "isShowColliderRect": false,
+                  "selectedactionname": "play"
+                }
+              ]
+            },
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10012,
+              "rotation": 0,
+              "scalex": 0.849999964,
+              "scaley": 0.849999964,
+              "visible": 1,
+              "x": 1527.174560546875,
+              "y": 342.1904296875,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCArmature",
+                  "name": "CCArmature",
+                  "file": null,
+                  "fileData": {
+                    "path": "zzzzz0/youxiang/youxiang.ExportJson",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "isShowColliderRect": false,
+                  "selectedactionname": "play"
+                }
+              ]
+            },
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10011,
+              "rotation": 0,
+              "scalex": 0.85,
+              "scaley": 0.799999952,
+              "visible": 1,
+              "x": 281.5098876953125,
+              "y": 255.0654296875,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCArmature",
+                  "name": "CCArmature",
+                  "file": null,
+                  "fileData": {
+                    "path": "zzzzz0/shangcheng/shangcheng.ExportJson",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "isShowColliderRect": false,
+                  "selectedactionname": "play"
+                }
+              ]
+            },
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": "mijing",
+              "canedit": true,
+              "objecttag": 10028,
+              "rotation": 0,
+              "scalex": 0.9,
+              "scaley": 0.9,
+              "visible": 1,
+              "x": 1118.1190185546875,
+              "y": 87.25128173828125,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCArmature",
+                  "name": "CCArmature",
+                  "file": null,
+                  "fileData": {
+                    "path": "zzzzz0/mijing/mijing.ExportJson",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "isShowColliderRect": false,
+                  "selectedactionname": "play"
+                }
+              ]
+            },
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": "bx",
+              "canedit": true,
+              "objecttag": 10039,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 1372.92236328125,
+              "y": 192.40786743164063,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCArmature",
+                  "name": "CCArmature",
+                  "file": null,
+                  "fileData": {
+                    "path": "zzzzz0/hundunbaoxiang/hundunbaoxiang.ExportJson",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "isShowColliderRect": false,
+                  "selectedactionname": "play"
+                }
+              ]
+            },
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10048,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 839.1668701171875,
+              "y": 235.00001525878906,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCArmature",
+                  "name": "CCArmature",
+                  "file": null,
+                  "fileData": {
+                    "path": "zzzzz0/xylianhua/xylianhua.ExportJson",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "isShowColliderRect": false,
+                  "selectedactionname": "play"
+                }
+              ]
+            },
+            {
+              "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+              "classname": "CCNode",
+              "name": null,
+              "canedit": true,
+              "objecttag": 10049,
+              "rotation": 0,
+              "scalex": 1,
+              "scaley": 1,
+              "visible": 1,
+              "x": 1670.999755859375,
+              "y": 95.999969482421875,
+              "zorder": 1,
+              "gameobjects": [],
+              "components": [
+                {
+                  "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+                  "classname": "CCArmature",
+                  "name": "CCArmature",
+                  "file": null,
+                  "fileData": {
+                    "path": "zzzzz0/jijingchang/jijingchang.ExportJson",
+                    "plistFile": "",
+                    "resourceType": 0
+                  },
+                  "isShowColliderRect": false,
+                  "selectedactionname": "play"
+                }
+              ]
+            }
+          ],
+          "components": [
+            {
+              "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "GUIComponent",
+              "name": "GUIComponent",
+              "file": null,
+              "fileData": {
+                "path": "xyxmmainui_1.json",
+                "plistFile": "",
+                "resourceType": 0
+              }
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10054,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 1285.8408203125,
+          "y": -5.3980722427368164,
+          "zorder": 3,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "zzzzz0/xyhongshu/xyhongshu.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "play"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10052,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": -1136.373046875,
+          "y": 16.542501449584961,
+          "zorder": 2,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "zzzzz0/xylvshu/xylvshu.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "play"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10050,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": -1168.9998779296875,
+          "y": -320.6666259765625,
+          "zorder": 4,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "zzzzz0/xycaocong/xycaocong.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "play"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10021,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCSprite",
+              "name": "CCSprite",
+              "file": null,
+              "fileData": {
+                "path": "zzzzz0/img/ewe.png",
+                "plistFile": "",
+                "resourceType": 0
+              }
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10022,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 0,
+          "y": 0,
+          "zorder": 3,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCSprite",
+              "name": "CCSprite",
+              "file": null,
+              "fileData": {
+                "path": "zzzzz0/img/mainbg2.png",
+                "plistFile": "",
+                "resourceType": 0
+              }
+            }
+          ]
+        }
+      ],
+      "components": [
+        {
+          "__type": "ComSpriteSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCSprite",
+          "name": "CCSprite",
+          "file": null,
+          "fileData": {
+            "path": "zzzzz0/img/mainbg.png",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        }
+      ]
+    }
+  ],
+  "CanvasSize": {
+    "_height": 640,
+    "_width": 2803
+  },
+  "Triggers": null,
+  "Version": "1.6.0.0",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "main"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}

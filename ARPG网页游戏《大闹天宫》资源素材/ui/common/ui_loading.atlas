@@ -1,0 +1,103 @@
+
+ui_loading-1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_loading_di
+  rotate: false
+  xy: 2, 38
+  size: 307, 193
+  orig: 307, 193
+  offset: 0, 0
+  index: -1
+ui_loading_lianjie_01
+  rotate: false
+  xy: 887, 77
+  size: 93, 34
+  orig: 165, 34
+  offset: 0, 0
+  index: -1
+ui_loading_lianjie_02
+  rotate: false
+  xy: 887, 113
+  size: 116, 34
+  orig: 165, 34
+  offset: 0, 0
+  index: -1
+ui_loading_lianjie_03
+  rotate: false
+  xy: 169, 2
+  size: 141, 34
+  orig: 165, 34
+  offset: 0, 0
+  index: -1
+ui_loading_lianjie_04
+  rotate: false
+  xy: 2, 2
+  size: 165, 34
+  orig: 165, 34
+  offset: 0, 0
+  index: -1
+ui_loading_maodao_01
+  rotate: true
+  xy: 801, 149
+  size: 82, 113
+  orig: 100, 116
+  offset: 18, 3
+  index: -1
+ui_loading_maodao_02
+  rotate: true
+  xy: 916, 149
+  size: 82, 106
+  orig: 100, 116
+  offset: 18, 3
+  index: -1
+ui_loading_maodao_03
+  rotate: true
+  xy: 699, 33
+  size: 91, 102
+  orig: 100, 116
+  offset: 9, 3
+  index: -1
+ui_loading_maodao_04
+  rotate: false
+  xy: 699, 126
+  size: 100, 105
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+ui_loading_maodao_05
+  rotate: false
+  xy: 803, 41
+  size: 82, 106
+  orig: 100, 116
+  offset: 18, 3
+  index: -1
+ui_loading_tangshen_01
+  rotate: false
+  xy: 619, 61
+  size: 78, 170
+  orig: 116, 171
+  offset: 38, 1
+  index: -1
+ui_loading_tangshen_02
+  rotate: false
+  xy: 429, 61
+  size: 95, 170
+  orig: 116, 171
+  offset: 21, 1
+  index: -1
+ui_loading_tangshen_03
+  rotate: false
+  xy: 311, 61
+  size: 116, 170
+  orig: 116, 171
+  offset: 0, 1
+  index: -1
+ui_loading_tangshen_04
+  rotate: false
+  xy: 526, 61
+  size: 91, 170
+  orig: 116, 171
+  offset: 25, 1
+  index: -1

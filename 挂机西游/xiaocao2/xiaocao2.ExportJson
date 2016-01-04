@@ -1,0 +1,311 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "xiaocao2",
+      "bone_data": [
+        {
+          "name": "Layer21",
+          "parent": "",
+          "dI": 0,
+          "x": -5.4444355964660645,
+          "y": 5.4288969039916992,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.44420421,
+          "kY": 1.44420421,
+          "arrow_x": 55.443683624267578,
+          "arrow_y": -3.1212639441946521E-06,
+          "effectbyskeleton": true,
+          "bl": 55,
+          "display_data": [
+            {
+              "name": "xiaocao2-dj-3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 26.2969818,
+                  "y": -0.6853943,
+                  "cX": 1.00000012,
+                  "cY": 1.00000012,
+                  "kX": 1.44420433,
+                  "kY": -1.4442035
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer22",
+          "parent": "",
+          "dI": 0,
+          "x": -26.8889102935791,
+          "y": 2.6511087417602539,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.50422812,
+          "kY": 1.50422812,
+          "arrow_x": 45.099906921386719,
+          "arrow_y": 1.0724822459451389E-05,
+          "effectbyskeleton": true,
+          "bl": 45,
+          "display_data": [
+            {
+              "name": "xiaocao2-dj-2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 22.0177917,
+                  "y": 0.4656372,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.50422812,
+                  "kY": -1.50422835
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer20",
+          "parent": "",
+          "dI": 0,
+          "x": 24.66663932800293,
+          "y": 5.7622261047363281,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.478467,
+          "kY": 1.478467,
+          "arrow_x": 54.231006622314453,
+          "arrow_y": 9.2366954049794E-06,
+          "effectbyskeleton": true,
+          "bl": 54,
+          "display_data": [
+            {
+              "name": "xiaocao2-dj-1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 27.0694046,
+                  "y": 0.49786377,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.478467,
+                  "kY": -1.47846782
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "xiaocao2",
+      "mov_data": [
+        {
+          "name": "play",
+          "dr": 61,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.5,
+          "mov_bone_data": [
+            {
+              "name": "Layer21",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": -0.139626339,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer22",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.139626339,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer20",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.139626339,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "xiaocao2-dj-1",
+      "width": 43.0,
+      "height": 56.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "xiaocao2-dj-2",
+      "width": 39.0,
+      "height": 44.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "xiaocao2-dj-3",
+      "width": 29.0,
+      "height": 57.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "xiaocao20.plist"
+  ],
+  "config_png_path": [
+    "xiaocao20.png"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "ui_baishi_xunhuan", "parent": "root" }
+],
+"slots": [
+	{ "name": "ui_baishi_xunhuan_01", "bone": "ui_baishi_xunhuan", "attachment": "ui_baishi_xunhuan_01" }
+],
+"skins": {
+	"default": {
+		"ui_baishi_xunhuan_01": {
+			"ui_baishi_xunhuan_01": { "width": 106, "height": 66 },
+			"ui_baishi_xunhuan_02": { "width": 106, "height": 66 },
+			"ui_baishi_xunhuan_03": { "width": 106, "height": 66 },
+			"ui_baishi_xunhuan_04": { "width": 106, "height": 66 },
+			"ui_baishi_xunhuan_05": { "width": 106, "height": 66 },
+			"ui_baishi_xunhuan_06": { "width": 106, "height": 66 },
+			"ui_baishi_xunhuan_07": { "width": 106, "height": 66 },
+			"ui_baishi_xunhuan_08": { "width": 106, "height": 66 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"ui_baishi_xunhuan": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"slots": {
+			"ui_baishi_xunhuan_01": {
+				"attachment": [
+					{ "time": 0.1, "name": "ui_baishi_xunhuan_02" },
+					{ "time": 0.2, "name": "ui_baishi_xunhuan_03" },
+					{ "time": 0.3, "name": "ui_baishi_xunhuan_04" },
+					{ "time": 0.4, "name": "ui_baishi_xunhuan_05" },
+					{ "time": 0.5, "name": "ui_baishi_xunhuan_06" },
+					{ "time": 0.6, "name": "ui_baishi_xunhuan_07" },
+					{ "time": 0.7, "name": "ui_baishi_xunhuan_08" },
+					{ "time": 0.7666, "name": "ui_baishi_xunhuan_08" }
+				]
+			}
+		}
+	}
+}
+}

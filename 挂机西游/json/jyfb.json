@@ -1,0 +1,245 @@
+{
+"openlv":80,
+"f5time":0,
+"freenum":5,
+"buyprize":[50,100,200,400,400],
+"chapter":{
+"1":{
+"openzl":80,
+"pic":"jqfb_bg3.png",
+"title":"wz_fbgk_1.png",
+"line":"1",
+"con":{
+"1":{"skill":[["106",10],["301",10]],"enemy":["10101","10106","10107"],"tips":"今年的选秀有看头，个个都天生丽质的。","prize":{"attr":{"money":200000},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[214,456],[298,305]]},
+"2":{"skill":[["302",10],["303",10]],"enemy":["10102","10106","10107"],"tips":"甄嬛这孩子真是不错，知书达理的！","prize":{"attr":{"money":240000},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[411,350],[424,482]]},
+"3":{"skill":[["205",10],["204",10]],"enemy":["10103","10106","10107"],"tips":"让我见皇上，我要见皇上！","prize":{"attr":{"money":280000},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[572,498],[646,359]]},
+"4":{"skill":[["108",10],["103",10],["301",10]],"enemy":["10104","10106","10107"],"tips":"这些新来的，不懂规矩，看我收拾你们！","prize":{"attr":{"money":320000},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[700,233],[810,359]]},
+"5":{"skill":[["105",10],["306",10],["203",10],["110",10]],"enemy":["10105","10106","10107"],"tips":"尚未入宫便得皇上欢心，你就暂且住碎玉轩去吧！","prize":{"attr":{"nexp":371814},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"341","n":5}]},"zb":[[820,511],[969,398]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":1400}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":3100},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":6200},"item":[{"t":"350","n":2}]}}
+]
+},
+"2":{
+"openzl":100,
+"pic":"jqfb_bg6.png",
+"title":"wz_fbgk_2.png",
+"line":"2",
+"con":{
+"1":{"skill":[["310",10],["305",10]],"enemy":["10201","10206","10207"],"tips":"整日病怏怏的，跟着这样的主子有什么好处？","prize":{"attr":{"money":220000},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[223,345],[344,392]]},
+"2":{"skill":[["203",10],["209",10]],"enemy":["10202","10206","10207"],"tips":"我还是去服侍丽嫔去吧！","prize":{"attr":{"money":264000},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[452,505],[528,390]]},
+"3":{"skill":[["308",10],["309",10]],"enemy":["10203","10206","10207"],"tips":"谁知道“逆风如解意”的下句？","prize":{"attr":{"money":308000},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[499,255],[649,330]]},
+"4":{"skill":[["202",10],["104",10],["302",10]],"enemy":["10204","10206","10207"],"tips":"是贵人又怎样，快给我让路！","prize":{"attr":{"money":352000},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[680,452],[802,497]]},
+"5":{"skill":[["303",10],["105",10],["207",10],["301",10]],"enemy":["10205","10206","10207"],"tips":"甄嬛，五日后我们再见！","prize":{"attr":{"nexp":668736},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"342","n":3}]},"zb":[[845,348],[956,255]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":1900}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":3850},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":7700},"item":[{"t":"350","n":2}]}}
+]
+},
+"3":{
+"openzl":120,
+"pic":"jqfb_bg7.png",
+"title":"wz_fbgk_3.png",
+"line":"3",
+"con":{
+"1":{"skill":[["206",10],["203",10]],"enemy":["10301","10306","10307"],"tips":"这毒药，会不会出人命啊？","prize":{"attr":{"money":242000},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[225,252],[303,339]]},
+"2":{"skill":[["106",10],["308",10]],"enemy":["10302","10306","10307"],"tips":"这都是余答应指使的！","prize":{"attr":{"money":290400},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[329,488],[410,375]]},
+"3":{"skill":[["109",10],["302",10]],"enemy":["10303","10306","10307"],"tips":"谁，谁在那里？我最怕鬼神之说了！","prize":{"attr":{"money":338800},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[533,367],[611,479]]},
+"4":{"skill":[["302",10],["307",10],["310",10]],"enemy":["10304","10306","10307"],"tips":"这次华妃可算是把自己害了。","prize":{"attr":{"money":387200},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[759,500],[744,347]]},
+"5":{"skill":[["205",10],["207",10],["204",10],["203",10]],"enemy":["10305","10306","10307"],"tips":"竟斗不过一个小丫头！","prize":{"attr":{"nexp":1003860},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"342","n":5}]},"zb":[[860,320],[988,456]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":2600}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":4900},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":9800},"item":[{"t":"350","n":2}]}}
+]
+},
+"4":{
+"openzl":140,
+"pic":"jqfb_bg1.png",
+"title":"wz_fbgk_4.png",
+"line":"1",
+"con":{
+"1":{"skill":[["304",10],["306",10]],"enemy":["10401","10406","10407"],"tips":"银粮遭劫，这下闯祸了！","prize":{"attr":{"money":266200},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[214,456],[298,305]]},
+"2":{"skill":[["104",10],["108",10]],"enemy":["10402","10406","10407"],"tips":"陵容这丫头，以为是皇后帮了她呢！","prize":{"attr":{"money":319440},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[411,350],[424,482]]},
+"3":{"skill":[["301",10],["201",10]],"enemy":["10403","10406","10407"],"tips":"眉庄是用假孕来骗取皇上恩宠的！","prize":{"attr":{"money":372680},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[572,498],[646,359]]},
+"4":{"skill":[["307",10],["203",10],["102",10]],"enemy":["10404","10406","10407"],"tips":"宫门前的残败花朵是哪来的？","prize":{"attr":{"money":425920},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[700,233],[810,359]]},
+"5":{"skill":[["108",10],["301",10],["201",10],["302",10]],"enemy":["10405","10406","10407"],"tips":"论容貌我也不比陵容逊色，却只有她得宠。","prize":{"attr":{"nexp":1422489},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"343","n":5}]},"zb":[[820,511],[969,398]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":3500}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":6250},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":12500},"item":[{"t":"350","n":2}]}}
+]
+},
+"5":{
+"openzl":160,
+"pic":"jqfb_bg11.png",
+"title":"wz_fbgk_5.png",
+"line":"2",
+"con":{
+"1":{"skill":[["202",10],["301",10]],"enemy":["10501","10506","10507"],"tips":"这小像是甄嬛的吗？","prize":{"attr":{"money":292820},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[223,345],[344,392]]},
+"2":{"skill":[["208",10],["308",10]],"enemy":["10502","10506","10507"],"tips":"人虽在我这，可心却在她那。","prize":{"attr":{"money":351384},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[452,505],[528,390]]},
+"3":{"skill":[["207",10],["204",10]],"enemy":["10503","10506","10507"],"tips":"陵常在送的寝衣，皇上可是连看都没看！","prize":{"attr":{"money":409948},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[499,255],[649,330]]},
+"4":{"skill":[["103",10],["106",10],["206",10]],"enemy":["10504","10506","10507"],"tips":"这药方可以控制疫情的发展。","prize":{"attr":{"money":468512},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[680,452],[802,497]]},
+"5":{"skill":[["302",10],["308",10],["202",10],["309",10]],"enemy":["10505","10506","10507"],"tips":"投毒的事，是华妃逼我做的！","prize":{"attr":{"nexp":2070360},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"344","n":5}]},"zb":[[845,348],[956,255]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":4600}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":7900},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":15800},"item":[{"t":"350","n":2}]}}
+]
+},
+"6":{
+"openzl":190,
+"pic":"jqfb_bg4.png",
+"title":"wz_fbgk_6.png",
+"line":"3",
+"con":{
+"1":{"skill":[["304",10],["203",10]],"enemy":["10601","10606","10607"],"tips":"我这是被利用了吗？","prize":{"attr":{"money":322102},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[225,252],[303,339]]},
+"2":{"skill":[["106",10],["204",10]],"enemy":["10602","10606","10607"],"tips":"甄嬛，你要多多留意陵容啊！","prize":{"attr":{"money":386522},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[329,488],[410,375]]},
+"3":{"skill":[["301",10],["104",10]],"enemy":["10603","10606","10607"],"tips":"虽然得宠，但却被众人孤立，如今只能依靠皇后了。","prize":{"attr":{"money":450942},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[533,367],[611,479]]},
+"4":{"skill":[["205",10],["106",10],["203",10]],"enemy":["10604","10606","10607"],"tips":"皇帝好像对我颇有好感！","prize":{"attr":{"money":515363},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[759,500],[744,347]]},
+"5":{"skill":[["208",10],["306",10],["304",10],["108",10]],"enemy":["10605","10606","10607"],"tips":"皇帝已没有从前一样对我恩宠了。","prize":{"attr":{"nexp":2794176},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"345","n":3}]},"zb":[[860,320],[988,456]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":5900}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":9850},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":19700},"item":[{"t":"350","n":2}]}}
+]
+},
+"7":{
+"openzl":210,
+"pic":"jqfb_bg10.png",
+"title":"wz_fbgk_7.png",
+"line":"1",
+"con":{
+"1":{"skill":[["310",10],["305",10]],"enemy":["10701","10706","10707"],"tips":"要演一出好戏了！","prize":{"attr":{"money":354312},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[214,456],[298,305]]},
+"2":{"skill":[["301",10],["104",10]],"enemy":["10702","10706","10707"],"tips":"我以后也要小心行事了！","prize":{"attr":{"money":425174},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[411,350],[424,482]]},
+"3":{"skill":[["204",10],["110",10]],"enemy":["10703","10706","10707"],"tips":"福晋和子女都被带入宫中幽禁，我还能做什么呢！","prize":{"attr":{"money":496036},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[572,498],[646,359]]},
+"4":{"skill":[["105",10],["106",10],["204",10]],"enemy":["10704","10706","10707"],"tips":"别再用刑了，招，我什么都招了！","prize":{"attr":{"money":566899},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[700,233],[810,359]]},
+"5":{"skill":[["105",10],["101",10],["106",10],["109",10]],"enemy":["10705","10706","10707"],"tips":"跟我斗，你比我更了解皇帝吗？","prize":{"attr":{"nexp":3167100},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"345","n":5}]},"zb":[[820,511],[969,398]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":7400}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":12100},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":24200},"item":[{"t":"350","n":2}]}}
+]
+},
+"8":{
+"openzl":230,
+"pic":"jqfb_bg13.png",
+"title":"wz_fbgk_8.png",
+"line":"2",
+"con":{
+"1":{"skill":[["309",10],["302",10]],"enemy":["10801","10806","10807"],"tips":"你看，我带来了胧月的画像！","prize":{"attr":{"money":389743},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[223,345],[344,392]]},
+"2":{"skill":[["104",10],["108",10]],"enemy":["10802","10806","10807"],"tips":"这样踩你，看你出不出声！","prize":{"attr":{"money":467691},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[452,505],[528,390]]},
+"3":{"skill":[["208",10],["308",10]],"enemy":["10803","10806","10807"],"tips":"这酒里…有毒吗…?","prize":{"attr":{"money":545639},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[499,255],[649,330]]},
+"4":{"skill":[["207",10],["108",10],["309",10]],"enemy":["10804","10806","10807"],"tips":"皇上，臣妾是被冤枉的！","prize":{"attr":{"money":623588},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[680,452],[802,497]]},
+"5":{"skill":[["103",10],["306",10],["204",10],["303",10]],"enemy":["10805","10806","10807"],"tips":"果郡王昔日救命之恩，来日一定报答！","prize":{"attr":{"nexp":3703320},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"346","n":5}]},"zb":[[845,348],[956,255]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":9100}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":14650},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":29300},"item":[{"t":"350","n":2}]}}
+]
+},
+"9":{
+"openzl":250,
+"pic":"jqfb_bg8.png",
+"title":"wz_fbgk_9.png",
+"line":"3",
+"con":{
+"1":{"skill":[["201",10],["302",10]],"enemy":["10901","10906","10907"],"tips":"有我的举证，一定能一石激起千层浪！","prize":{"attr":{"money":428717},"item":[{"t":"349","n":3},{"t":"348","n":6}]},"zb":[[225,252],[303,339]]},
+"2":{"skill":[["310",10],["305",10]],"enemy":["10902","10906","10907"],"tips":"皇帝要那我为妾？","prize":{"attr":{"money":514460},"item":[{"t":"349","n":4},{"t":"348","n":8}]},"zb":[[329,488],[410,375]]},
+"3":{"skill":[["301",10],["210",10]],"enemy":["10903","10906","10907"],"tips":"皇帝看不出，陵容的孩子早已滑胎了吗？","prize":{"attr":{"money":600202},"item":[{"t":"349","n":5},{"t":"348","n":10}]},"zb":[[533,367],[611,479]]},
+"4":{"skill":[["209",10],["303",10],["110",10]],"enemy":["10904","10906","10907"],"tips":"居然又被甄嬛给算计了！","prize":{"attr":{"money":685946},"item":[{"t":"349","n":6},{"t":"348","n":12}]},"zb":[[759,500],[744,347]]},
+"5":{"skill":[["105",10],["106",10],["109",10],["101",10]],"enemy":["10905","10906","10907"],"tips":"想去祛除时疫的药方吗？","prize":{"attr":{"nexp":4278420},"item":[{"t":"349","n":7},{"t":"348","n":14},{"t":"347","n":5}]},"zb":[[860,320],[988,456]]}
+},
+"prize":[
+{"needtype":"money","need":0,"prize":{"pattr":{"wuxing":11000}}},
+{"needtype":"money","need":1000000,"prize":{"pattr":{"wuxing":17500},"item":[{"t":"350","n":1}]}},
+{"needtype":"rmbmoney","need":98,"prize":{"pattr":{"wuxing":35000},"item":[{"t":"350","n":2}]}}
+]
+}
+},
+"enemy":{
+	 "10101":{"head":"guaiwu_001.png","ename":"选秀太监","lv":82,"job":1,"isboss":1,"isjy":1,"skill":[["106",10],["301",10]],"buff":{"nhp":1929788,"nmp":6560,"mindps":20172,"maxdps":36309,"shanbi":492,"mingzhong":3605,"baoji":4920,"gedangpro":5,"hujia":0,"wukang":6724,"mokang":6724,"hjctlv":82,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":2785,"baosahng":180,"mkctlv":82,"wkctlv":82}},
+	 "10102":{"head":"guaiwu_077.png","ename":"芳若姑姑","lv":84,"job":3,"isboss":1,"isjy":1,"skill":[["302",10],["303",10]],"buff":{"nhp":2074464,"nmp":6720,"mindps":21168,"maxdps":38102,"shanbi":504,"mingzhong":3748,"baoji":5040,"gedangpro":5,"hujia":0,"wukang":7056,"mokang":7056,"hjctlv":84,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":2908,"baosahng":180,"mkctlv":84,"wkctlv":84}},
+	 "10103":{"head":"guaiwu_024.png","ename":"秀女","lv":86,"job":2,"isboss":1,"isjy":1,"skill":[["205",10],["204",10]],"buff":{"nhp":2226196,"nmp":6880,"mindps":22188,"maxdps":39938,"shanbi":516,"mingzhong":3894,"baoji":5160,"gedangpro":5,"hujia":0,"wukang":7396,"mokang":7396,"hjctlv":86,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":3034,"baosahng":180,"mkctlv":86,"wkctlv":86}},
+	 "10104":{"head":"guaiwu_018.png","ename":"夏冬春","lv":88,"job":3,"isboss":1,"isjy":1,"skill":[["108",10],["103",10],["301",10]],"buff":{"nhp":2385152,"nmp":7040,"mindps":23232,"maxdps":41817,"shanbi":528,"mingzhong":4042,"baoji":5280,"gedangpro":5,"hujia":0,"wukang":7744,"mokang":7744,"hjctlv":88,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":3162,"baosahng":180,"mkctlv":88,"wkctlv":88}},
+	 "10105":{"head":"guaiwu_015.png","ename":"华妃","lv":90,"job":1,"isboss":1,"isjy":1,"skill":[["105",10],["306",10],["203",10],["110",10]],"buff":{"nhp":2551500,"nmp":7200,"mindps":24300,"maxdps":43740,"shanbi":540,"mingzhong":4193,"baoji":5400,"gedangpro":5,"hujia":0,"wukang":8100,"mokang":8100,"hjctlv":90,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":3293,"baosahng":180,"mkctlv":90,"wkctlv":90}},
+	 
+	 "10201":{"head":"guaiwu_036.png","ename":"宫女","lv":122,"job":3,"isboss":1,"isjy":1,"skill":[["310",10],["305",10]],"buff":{"nhp":6355468,"nmp":9760,"mindps":59536,"maxdps":107164,"shanbi":732,"mingzhong":6914,"baoji":7320,"gedangpro":5,"hujia":22326,"wukang":14884,"mokang":14884,"hjctlv":122,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":5694,"baosahng":180,"mkctlv":122,"wkctlv":122}},
+	 "10202":{"head":"guaiwu_035.png","ename":"康禄海","lv":124,"job":2,"isboss":1,"isjy":1,"skill":[["203",10],["209",10]],"buff":{"nhp":6673184,"nmp":9920,"mindps":61504,"maxdps":110707,"shanbi":744,"mingzhong":7103,"baoji":7440,"gedangpro":5,"hujia":23064,"wukang":15376,"mokang":15376,"hjctlv":124,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":5863,"baosahng":180,"mkctlv":124,"wkctlv":124}},
+	 "10203":{"head":"guaiwu_037.png","ename":"苏培盛","lv":126,"job":3,"isboss":1,"isjy":1,"skill":[["308",10],["309",10]],"buff":{"nhp":7001316,"nmp":10080,"mindps":63504,"maxdps":114307,"shanbi":756,"mingzhong":7294,"baoji":7560,"gedangpro":5,"hujia":23814,"wukang":15876,"mokang":15876,"hjctlv":126,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":6034,"baosahng":180,"mkctlv":126,"wkctlv":126}},
+	 "10204":{"head":"guaiwu_027.png","ename":"余莺儿","lv":128,"job":1,"isboss":1,"isjy":1,"skill":[["202",10],["104",10],["302",10]],"buff":{"nhp":7340032,"nmp":10240,"mindps":65536,"maxdps":117964,"shanbi":768,"mingzhong":7488,"baoji":7680,"gedangpro":5,"hujia":24576,"wukang":16384,"mokang":16384,"hjctlv":128,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":6208,"baosahng":180,"mkctlv":128,"wkctlv":128}},
+	 "10205":{"head":"guaiwu_041.png","ename":"常服皇帝","lv":130,"job":3,"isboss":1,"isjy":1,"skill":[["303",10],["105",10],["207",10],["301",10]],"buff":{"nhp":7689500,"nmp":10400,"mindps":67600,"maxdps":121680,"shanbi":780,"mingzhong":7684,"baoji":7800,"gedangpro":5,"hujia":25350,"wukang":16900,"mokang":16900,"hjctlv":130,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":6384,"baosahng":180,"mkctlv":130,"wkctlv":130}},
+	 
+	 "10301":{"head":"guaiwu_034.png","ename":"花穗","lv":142,"job":2,"isboss":1,"isjy":1,"skill":[["206",10],["203",10]],"buff":{"nhp":10021508,"nmp":11360,"mindps":100820,"maxdps":181476,"shanbi":852,"mingzhong":8903,"baoji":8520,"gedangpro":5,"hujia":30246,"wukang":20164,"mokang":20164,"hjctlv":142,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":7483,"baosahng":180,"mkctlv":142,"wkctlv":142}},
+	 "10302":{"head":"guaiwu_065.png","ename":"小印子","lv":144,"job":3,"isboss":1,"isjy":1,"skill":[["106",10],["308",10]],"buff":{"nhp":10450944,"nmp":11520,"mindps":103680,"maxdps":186624,"shanbi":864,"mingzhong":9114,"baoji":8640,"gedangpro":5,"hujia":31104,"wukang":20736,"mokang":20736,"hjctlv":144,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":7674,"baosahng":180,"mkctlv":144,"wkctlv":144}},
+	 "10303":{"head":"guaiwu_021.png","ename":"丽嫔","lv":146,"job":1,"isboss":1,"isjy":1,"skill":[["109",10],["302",10]],"buff":{"nhp":10892476,"nmp":11680,"mindps":106580,"maxdps":191844,"shanbi":876,"mingzhong":9327,"baoji":8760,"gedangpro":5,"hujia":31974,"wukang":21316,"mokang":21316,"hjctlv":146,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":7867,"baosahng":180,"mkctlv":146,"wkctlv":146}},
+	 "10304":{"head":"guaiwu_026.png","ename":"曹贵人","lv":148,"job":3,"isboss":1,"isjy":1,"skill":[["302",10],["307",10],["310",10]],"buff":{"nhp":11346272,"nmp":11840,"mindps":109520,"maxdps":197136,"shanbi":888,"mingzhong":9542,"baoji":8880,"gedangpro":5,"hujia":32856,"wukang":21904,"mokang":21904,"hjctlv":148,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":8062,"baosahng":180,"mkctlv":148,"wkctlv":148}},
+	 "10305":{"head":"guaiwu_015.png","ename":"华妃","lv":150,"job":2,"isboss":1,"isjy":1,"skill":[["205",10],["207",10],["204",10],["203",10]],"buff":{"nhp":11812500,"nmp":12000,"mindps":112500,"maxdps":202500,"shanbi":900,"mingzhong":9759,"baoji":9000,"gedangpro":5,"hujia":33750,"wukang":22500,"mokang":22500,"hjctlv":150,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":8259,"baosahng":180,"mkctlv":150,"wkctlv":150}},
+	 
+	 "10401":{"head":"guaiwu_007.png","ename":"安比槐","lv":162,"job":3,"isboss":1,"isjy":1,"skill":[["304",10],["306",10]],"buff":{"nhp":14880348,"nmp":12960,"mindps":157464,"maxdps":283435,"shanbi":972,"mingzhong":11106,"baoji":9720,"gedangpro":5,"hujia":39366,"wukang":26244,"mokang":26244,"hjctlv":162,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":9486,"baosahng":180,"mkctlv":162,"wkctlv":162}},
+	 "10402":{"head":"guaiwu_004.png","ename":"剪秋姑姑","lv":164,"job":1,"isboss":1,"isjy":1,"skill":[["104",10],["108",10]],"buff":{"nhp":15438304,"nmp":13120,"mindps":161376,"maxdps":290476,"shanbi":984,"mingzhong":11338,"baoji":9840,"gedangpro":5,"hujia":40344,"wukang":26896,"mokang":26896,"hjctlv":164,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":9698,"baosahng":180,"mkctlv":164,"wkctlv":164}},
+	 "10403":{"head":"guaiwu_005.png","ename":"宫女茯苓","lv":166,"job":3,"isboss":1,"isjy":1,"skill":[["301",10],["201",10]],"buff":{"nhp":16010036,"nmp":13280,"mindps":165336,"maxdps":297604,"shanbi":996,"mingzhong":11572,"baoji":9960,"gedangpro":5,"hujia":41334,"wukang":27556,"mokang":27556,"hjctlv":166,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":9912,"baosahng":180,"mkctlv":166,"wkctlv":166}},
+	 "10404":{"head":"guaiwu_029.png","ename":"内务府总管","lv":168,"job":2,"isboss":1,"isjy":1,"skill":[["307",10],["203",10],["102",10]],"buff":{"nhp":16595712,"nmp":13440,"mindps":169344,"maxdps":304819,"shanbi":1008,"mingzhong":11808,"baoji":10080,"gedangpro":5,"hujia":42336,"wukang":28224,"mokang":28224,"hjctlv":168,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":10128,"baosahng":180,"mkctlv":168,"wkctlv":168}},
+	 "10405":{"head":"guaiwu_031.png","ename":"浣碧","lv":170,"job":3,"isboss":1,"isjy":1,"skill":[["108",10],["301",10],["201",10],["302",10]],"buff":{"nhp":17195500,"nmp":13600,"mindps":173400,"maxdps":312120,"shanbi":1020,"mingzhong":12046,"baoji":10200,"gedangpro":5,"hujia":43350,"wukang":28900,"mokang":28900,"hjctlv":170,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":10346,"baosahng":180,"mkctlv":170,"wkctlv":170}},
+	 
+	 "10501":{"head":"guaiwu_039.png","ename":"果郡王","lv":182,"job":1,"isboss":1,"isjy":1,"skill":[["202",10],["301",10]],"buff":{"nhp":21099988,"nmp":14560,"mindps":264992,"maxdps":476985,"shanbi":1092,"mingzhong":13518,"baoji":10920,"gedangpro":5,"hujia":49686,"wukang":33124,"mokang":33124,"hjctlv":182,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":11698,"baosahng":180,"mkctlv":182,"wkctlv":182}},
+	 "10502":{"head":"guaiwu_022.png","ename":"皇后","lv":184,"job":3,"isboss":1,"isjy":1,"skill":[["208",10],["308",10]],"buff":{"nhp":21803264,"nmp":14720,"mindps":270848,"maxdps":487526,"shanbi":1104,"mingzhong":13770,"baoji":11040,"gedangpro":5,"hujia":50784,"wukang":33856,"mokang":33856,"hjctlv":184,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":11930,"baosahng":180,"mkctlv":184,"wkctlv":184}},
+	 "10503":{"head":"guaiwu_016.png","ename":"淳儿","lv":186,"job":2,"isboss":1,"isjy":1,"skill":[["207",10],["204",10]],"buff":{"nhp":22521996,"nmp":14880,"mindps":276768,"maxdps":498182,"shanbi":1116,"mingzhong":14025,"baoji":11160,"gedangpro":5,"hujia":51894,"wukang":34596,"mokang":34596,"hjctlv":186,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":12165,"baosahng":180,"mkctlv":186,"wkctlv":186}},
+	 "10504":{"head":"guaiwu_081.png","ename":"江太医","lv":188,"job":3,"isboss":1,"isjy":1,"skill":[["103",10],["106",10],["206",10]],"buff":{"nhp":23256352,"nmp":15040,"mindps":282752,"maxdps":508953,"shanbi":1128,"mingzhong":14281,"baoji":11280,"gedangpro":5,"hujia":53016,"wukang":35344,"mokang":35344,"hjctlv":188,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":12401,"baosahng":180,"mkctlv":188,"wkctlv":188}},
+	 "10505":{"head":"guaiwu_014.png","ename":"刘畚","lv":190,"job":1,"isboss":1,"isjy":1,"skill":[["302",10],["308",10],["202",10],["309",10]],"buff":{"nhp":24006500,"nmp":15200,"mindps":288800,"maxdps":519840,"shanbi":1140,"mingzhong":14540,"baoji":11400,"gedangpro":5,"hujia":54150,"wukang":36100,"mokang":36100,"hjctlv":190,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":12640,"baosahng":180,"mkctlv":190,"wkctlv":190}},
+	 
+	 "10601":{"head":"guaiwu_015.png","ename":"齐妃","lv":222,"job":3,"isboss":1,"isjy":1,"skill":[["304",10],["203",10]],"buff":{"nhp":38293668,"nmp":17760,"mindps":394272,"maxdps":709689,"shanbi":1332,"mingzhong":18947,"baoji":13320,"gedangpro":5,"hujia":73926,"wukang":49284,"mokang":49284,"hjctlv":222,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":16727,"baosahng":180,"mkctlv":222,"wkctlv":222}},
+	 "10602":{"head":"guaiwu_077.png","ename":"槿汐","lv":224,"job":2,"isboss":1,"isjy":1,"skill":[["106",10],["204",10]],"buff":{"nhp":39337984,"nmp":17920,"mindps":401408,"maxdps":722534,"shanbi":1344,"mingzhong":19239,"baoji":13440,"gedangpro":5,"hujia":75264,"wukang":50176,"mokang":50176,"hjctlv":224,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":16999,"baosahng":180,"mkctlv":224,"wkctlv":224}},
+	 "10603":{"head":"guaiwu_002.png","ename":"陵容","lv":226,"job":3,"isboss":1,"isjy":1,"skill":[["301",10],["104",10]],"buff":{"nhp":40401116,"nmp":18080,"mindps":408608,"maxdps":735494,"shanbi":1356,"mingzhong":19534,"baoji":13560,"gedangpro":5,"hujia":76614,"wukang":51076,"mokang":51076,"hjctlv":226,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":17274,"baosahng":180,"mkctlv":226,"wkctlv":226}},
+	 "10604":{"head":"guaiwu_006.png","ename":"宫女颂芝","lv":228,"job":1,"isboss":1,"isjy":1,"skill":[["205",10],["106",10],["203",10]],"buff":{"nhp":41483232,"nmp":18240,"mindps":415872,"maxdps":748569,"shanbi":1368,"mingzhong":19830,"baoji":13680,"gedangpro":5,"hujia":77976,"wukang":51984,"mokang":51984,"hjctlv":228,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":17550,"baosahng":180,"mkctlv":228,"wkctlv":228}},
+	 "10605":{"head":"guaiwu_015.png","ename":"华妃","lv":230,"job":3,"isboss":1,"isjy":1,"skill":[["208",10],["306",10],["304",10],["108",10]],"buff":{"nhp":42584500,"nmp":18400,"mindps":423200,"maxdps":761760,"shanbi":1380,"mingzhong":20128,"baoji":13800,"gedangpro":5,"hujia":79350,"wukang":52900,"mokang":52900,"hjctlv":230,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":17828,"baosahng":180,"mkctlv":230,"wkctlv":230}},
+	 
+	 "10701":{"head":"guaiwu_010.png","ename":"年羹尧","lv":242,"job":2,"isboss":1,"isjy":1,"skill":[["310",10],["305",10]],"buff":{"nhp":49603708,"nmp":19360,"mindps":468512,"maxdps":843321,"shanbi":1452,"mingzhong":21957,"baoji":14520,"gedangpro":5,"hujia":87846,"wukang":58564,"mokang":58564,"hjctlv":242,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":19537,"baosahng":180,"mkctlv":242,"wkctlv":242}},
+	 "10702":{"head":"guaiwu_006.png","ename":"颂芝","lv":244,"job":3,"isboss":1,"isjy":1,"skill":[["301",10],["104",10]],"buff":{"nhp":50843744,"nmp":19520,"mindps":476288,"maxdps":857318,"shanbi":1464,"mingzhong":22269,"baoji":14640,"gedangpro":5,"hujia":89304,"wukang":59536,"mokang":59536,"hjctlv":244,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":19829,"baosahng":180,"mkctlv":244,"wkctlv":244}},
+	 "10703":{"head":"guaiwu_020.png","ename":"敦亲王","lv":246,"job":1,"isboss":1,"isjy":1,"skill":[["204",10],["110",10]],"buff":{"nhp":52104276,"nmp":19680,"mindps":484128,"maxdps":871430,"shanbi":1476,"mingzhong":22582,"baoji":14760,"gedangpro":5,"hujia":90774,"wukang":60516,"mokang":60516,"hjctlv":246,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":20122,"baosahng":180,"mkctlv":246,"wkctlv":246}},
+	 "10704":{"head":"guaiwu_073.png","ename":"周宁海","lv":248,"job":3,"isboss":1,"isjy":1,"skill":[["105",10],["106",10],["204",10]],"buff":{"nhp":53385472,"nmp":19840,"mindps":492032,"maxdps":885657,"shanbi":1488,"mingzhong":22897,"baoji":14880,"gedangpro":5,"hujia":92256,"wukang":61504,"mokang":61504,"hjctlv":248,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":20417,"baosahng":180,"mkctlv":248,"wkctlv":248}},
+	 "10705":{"head":"guaiwu_022.png","ename":"皇后","lv":250,"job":2,"isboss":1,"isjy":1,"skill":[["105",10],["101",10],["106",10],["109",10]],"buff":{"nhp":54687500,"nmp":20000,"mindps":500000,"maxdps":900000,"shanbi":1500,"mingzhong":23215,"baoji":15000,"gedangpro":5,"hujia":93750,"wukang":62500,"mokang":62500,"hjctlv":250,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":20715,"baosahng":180,"mkctlv":250,"wkctlv":250}},
+	 
+	 "10801":{"head":"guaiwu_019.png","ename":"果郡王","lv":262,"job":3,"isboss":1,"isjy":1,"skill":[["309",10],["302",10]],"buff":{"nhp":62946548,"nmp":20960,"mindps":549152,"maxdps":988473,"shanbi":1572,"mingzhong":25159,"baoji":15720,"gedangpro":5,"hujia":102966,"wukang":68644,"mokang":68644,"hjctlv":262,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":22539,"baosahng":180,"mkctlv":262,"wkctlv":262}},
+	 "10802":{"head":"guaiwu_005.png","ename":"祺嫔","lv":264,"job":1,"isboss":1,"isjy":1,"skill":[["104",10],["108",10]],"buff":{"nhp":64399104,"nmp":21120,"mindps":557568,"maxdps":1003622,"shanbi":1584,"mingzhong":25490,"baoji":15840,"gedangpro":5,"hujia":104544,"wukang":69696,"mokang":69696,"hjctlv":264,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":22850,"baosahng":180,"mkctlv":264,"wkctlv":264}},
+	 "10803":{"head":"guaiwu_007.png","ename":"隆科多","lv":266,"job":3,"isboss":1,"isjy":1,"skill":[["208",10],["308",10]],"buff":{"nhp":65873836,"nmp":21280,"mindps":566048,"maxdps":1018886,"shanbi":1596,"mingzhong":25822,"baoji":15960,"gedangpro":5,"hujia":106134,"wukang":70756,"mokang":70756,"hjctlv":266,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":23162,"baosahng":180,"mkctlv":266,"wkctlv":266}},
+	 "10804":{"head":"guaiwu_015.png","ename":"齐妃","lv":268,"job":2,"isboss":1,"isjy":1,"skill":[["207",10],["108",10],["309",10]],"buff":{"nhp":67370912,"nmp":21440,"mindps":574592,"maxdps":1034265,"shanbi":1608,"mingzhong":26157,"baoji":16080,"gedangpro":5,"hujia":107736,"wukang":71824,"mokang":71824,"hjctlv":268,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":23477,"baosahng":180,"mkctlv":268,"wkctlv":268}},
+	 "10805":{"head":"guaiwu_053.png","ename":"叶澜依","lv":270,"job":3,"isboss":1,"isjy":1,"skill":[["103",10],["306",10],["204",10],["303",10]],"buff":{"nhp":68890500,"nmp":21600,"mindps":583200,"maxdps":1049760,"shanbi":1620,"mingzhong":26493,"baoji":16200,"gedangpro":5,"hujia":109350,"wukang":72900,"mokang":72900,"hjctlv":270,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":23793,"baosahng":180,"mkctlv":270,"wkctlv":270}},
+	 
+	 "10901":{"head":"guaiwu_024.png","ename":"侍女斐雯","lv":282,"job":1,"isboss":1,"isjy":1,"skill":[["201",10],["302",10]],"buff":{"nhp":78490188,"nmp":22560,"mindps":636192,"maxdps":1145145,"shanbi":1692,"mingzhong":28550,"baoji":16920,"gedangpro":5,"hujia":119286,"wukang":79524,"mokang":79524,"hjctlv":282,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":25730,"baosahng":180,"mkctlv":282,"wkctlv":282}},
+	 "10902":{"head":"guaiwu_017.png","ename":"玉娆","lv":284,"job":3,"isboss":1,"isjy":1,"skill":[["310",10],["305",10]],"buff":{"nhp":80172064,"nmp":22720,"mindps":645248,"maxdps":1161446,"shanbi":1704,"mingzhong":28899,"baoji":17040,"gedangpro":5,"hujia":120984,"wukang":80656,"mokang":80656,"hjctlv":284,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":26059,"baosahng":180,"mkctlv":284,"wkctlv":284}},
+	 "10903":{"head":"guaiwu_008.png","ename":"太医卫临","lv":286,"job":2,"isboss":1,"isjy":1,"skill":[["301",10],["210",10]],"buff":{"nhp":81877796,"nmp":22880,"mindps":654368,"maxdps":1177862,"shanbi":1716,"mingzhong":29251,"baoji":17160,"gedangpro":5,"hujia":122694,"wukang":81796,"mokang":81796,"hjctlv":286,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":26391,"baosahng":180,"mkctlv":286,"wkctlv":286}},
+	 "10904":{"head":"guaiwu_022.png","ename":"皇后","lv":288,"job":3,"isboss":1,"isjy":1,"skill":[["209",10],["303",10],["110",10]],"buff":{"nhp":83607552,"nmp":23040,"mindps":663552,"maxdps":1194393,"shanbi":1728,"mingzhong":29604,"baoji":17280,"gedangpro":5,"hujia":124416,"wukang":82944,"mokang":82944,"hjctlv":288,"dpshp":15,"dxstatus":0,"dpstouser":20,"backhppro":0,"renxing":26724,"baosahng":180,"mkctlv":288,"wkctlv":288}},
+	 "10905":{"head":"guaiwu_028.png","ename":"准格尔摩格","lv":290,"job":1,"isboss":1,"isjy":1,"skill":[["105",10],["106",10],["109",10],["101",10]],"buff":{"nhp":85361500,"nmp":23200,"mindps":672800,"maxdps":1211040,"shanbi":1740,"mingzhong":29959,"baoji":17400,"gedangpro":5,"hujia":126150,"wukang":84100,"mokang":84100,"hjctlv":290,"dpshp":15,"dxstatus":100,"dpstouser":20,"backhppro":0,"renxing":27059,"baosahng":180,"mkctlv":290,"wkctlv":290}},
+
+	 
+	 "10106":{"head":"guaiwu_074.png","ename":"小太监","lv":80,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":330339,"nmp":6400,"mindps":19200,"maxdps":38400,"shanbi":0,"mingzhong":3464,"baoji":4800,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":80,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":80,"wkctlv":80}},
+	 "10107":{"head":"guaiwu_057.png","ename":"丫鬟","lv":80,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":330339,"nmp":6400,"mindps":19200,"maxdps":38400,"shanbi":0,"mingzhong":3464,"baoji":4800,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":80,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":80,"wkctlv":80}},
+	 "10206":{"head":"guaiwu_058.png","ename":"秀女","lv":120,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":1070595,"nmp":9600,"mindps":43200,"maxdps":86400,"shanbi":0,"mingzhong":6727,"baoji":7200,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":120,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":120,"wkctlv":120}},
+	 "10207":{"head":"guaiwu_061.png","ename":"见习侍卫","lv":120,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":1070595,"nmp":9600,"mindps":43200,"maxdps":86400,"shanbi":0,"mingzhong":6727,"baoji":7200,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":120,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":120,"wkctlv":120}},
+	 "10306":{"head":"guaiwu_049.png","ename":"侍女","lv":140,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":1674061,"nmp":11200,"mindps":58800,"maxdps":117600,"shanbi":0,"mingzhong":8695,"baoji":8400,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":140,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":140,"wkctlv":140}},
+	 "10307":{"head":"guaiwu_062.png","ename":"飞贼","lv":140,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":1674061,"nmp":11200,"mindps":58800,"maxdps":117600,"shanbi":0,"mingzhong":8695,"baoji":8400,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":140,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":140,"wkctlv":140}},
+	 "10406":{"head":"guaiwu_053.png","ename":"宫女","lv":160,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":2465743,"nmp":12800,"mindps":76800,"maxdps":153600,"shanbi":0,"mingzhong":10877,"baoji":9600,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":160,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":160,"wkctlv":160}},
+	 "10407":{"head":"guaiwu_050.png","ename":"官女子","lv":160,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":2465743,"nmp":12800,"mindps":76800,"maxdps":153600,"shanbi":0,"mingzhong":10877,"baoji":9600,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":160,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":160,"wkctlv":160}},
+	 "10506":{"head":"guaiwu_066.png","ename":"官员","lv":180,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":3469686,"nmp":14400,"mindps":97200,"maxdps":194400,"shanbi":0,"mingzhong":13268,"baoji":10800,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":180,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":180,"wkctlv":180}},
+	 "10507":{"head":"guaiwu_070.png","ename":"带刀侍卫","lv":180,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":3469686,"nmp":14400,"mindps":97200,"maxdps":194400,"shanbi":0,"mingzhong":13268,"baoji":10800,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":180,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":180,"wkctlv":180}},
+	 "10606":{"head":"guaiwu_047.png","ename":"乱党","lv":220,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":6209058,"nmp":17600,"mindps":145200,"maxdps":290400,"shanbi":0,"mingzhong":18657,"baoji":13200,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":220,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":220,"wkctlv":220}},
+	 "10607":{"head":"guaiwu_075.png","ename":"二等太监","lv":220,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":6209058,"nmp":17600,"mindps":145200,"maxdps":290400,"shanbi":0,"mingzhong":18657,"baoji":13200,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":220,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":220,"wkctlv":220}},
+	 "10706":{"head":"guaiwu_067.png","ename":"丞相","lv":240,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":7991211,"nmp":19200,"mindps":172800,"maxdps":345600,"shanbi":0,"mingzhong":21647,"baoji":14400,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":240,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":240,"wkctlv":240}},
+	 "10707":{"head":"guaiwu_071.png","ename":"提督","lv":240,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":7991211,"nmp":19200,"mindps":172800,"maxdps":345600,"shanbi":0,"mingzhong":21647,"baoji":14400,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":240,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":240,"wkctlv":240}},
+	 "10806":{"head":"guaiwu_068.png","ename":"钦差大臣","lv":260,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":10079122,"nmp":20800,"mindps":202800,"maxdps":405600,"shanbi":0,"mingzhong":24830,"baoji":15600,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":260,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":260,"wkctlv":260}},
+	 "10807":{"head":"guaiwu_076.png","ename":"太监总管","lv":260,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":10079122,"nmp":20800,"mindps":202800,"maxdps":405600,"shanbi":0,"mingzhong":24830,"baoji":15600,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":260,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":260,"wkctlv":260}},
+	 "10906":{"head":"guaiwu_081.png","ename":"御前太医","lv":280,"job":1,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":12495633,"nmp":22400,"mindps":235200,"maxdps":470400,"shanbi":0,"mingzhong":28202,"baoji":16800,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":280,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":280,"wkctlv":280}},
+	 "10907":{"head":"guaiwu_072.png","ename":"御前侍卫","lv":280,"job":3,"isboss":0,"isjy":0,"skill":[["101",10]],"buff":{"nhp":12495633,"nmp":22400,"mindps":235200,"maxdps":470400,"shanbi":0,"mingzhong":28202,"baoji":16800,"gedangpro":0,"hujia":0,"wukang":0,"mokang":0,"hjctlv":280,"dpshp":0,"dxstatus":0,"dpstouser":0,"backhppro":0,"renxing":0,"baosahng":180,"mkctlv":280,"wkctlv":280}}
+}
+}
